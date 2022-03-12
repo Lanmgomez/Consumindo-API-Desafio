@@ -1,0 +1,11 @@
+IMPORTANT:
+
+This is a basic project for learning how to make an API acess with JavaScript.
+
+The program only will run if you install the Server:
+
+First you'll need to have installed Node JS/NPM on your PC
+
+Then, you may run "npm install" on project root
+
+Finally, run "node index.js" on the root folder to start running the server.
